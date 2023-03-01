@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vRT5shU8VO4xAoMVH17fGc7P8BCEMvVIjYx6VNP3yOM=",
+  "Source": "JWT-ASP-WEBAPI",
+  "BasePath": "_content/JWT-ASP-WEBAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
